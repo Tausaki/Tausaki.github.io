@@ -3,6 +3,5 @@
 **/.cache
 docs/.vuepress/dist
 **/.temp
-/deploy.sh
 /package-lock.json
 /.vs
