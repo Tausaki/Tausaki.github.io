@@ -7,7 +7,7 @@ const {siteInformation} = require("./siteInformation");
 const {message} = require("./message");
 const {donate} = require("./donate");
 module.exports = {
-    //base: "https://github.com/Reisenzone/tausagi.github.io.git",//如果你准备发布到 https://<USERNAME>.github.io/<REPO>/ ，也就是说你的仓库地址是 https://github.com/<USERNAME>/<REPO> ，则将 base 设置为 "/<REPO>/"。
+    //base: '/REPO/',//如果你准备发布到 https://<USERNAME>.github.io/<REPO>/ ，也就是说你的仓库地址是 https://github.com/<USERNAME>/<REPO> ，则将 base 设置为 "/<REPO>/"。
 
     /*
     * 这里是配置Markdown语法增强的配置，如需配置，请查看官方介绍https://v2.vuepress.vuejs.org/zh/guide/markdown.html
@@ -50,7 +50,7 @@ module.exports = {
                 appKey: 'qHYTbb91iOPLelyC9aaa',
                 masterKey: 'eUwfvS3luIPnPiaaa',
                 //下面这些是可选的
-                avatarPath: '/avatar.jpg',//说说头像url
+                avatarPath: '/jpoagt5sd.png',//说说头像url
                 registerPath: '/register', //自定义插件默认提供的注册页面路由，请在前面加上/
                 onlyAdministrator: false //是否运行其他注册的用户发布说说，true表示只有管理员可以发布
             }
@@ -72,12 +72,12 @@ module.exports = {
         [
             "player",
             {
-                disableSpace: true,
+                disableSpace: false,
                 //网易云单个歌单id
-                songIds: ['1822398824','461735816','2057832529'],
+                songIds: ['29723011','1887893189','1421069053'],
                 //网易云歌单
-                playlist: '8011641305',
-                showPlaylist: true,
+                playlist: '7082462754',
+                showPlaylist: false,
                 //是否禁用网易云音乐，如果你选择禁用，那么就将使用本地的歌曲，请传入链接
                 disabledNetEaseMusic: true,
 
@@ -86,71 +86,77 @@ module.exports = {
 
                 //本地歌曲
                 localSongs: {
-                    coverUrl: '/bg/8.jpg',
+                    coverUrl: '/bg/Y]CLQOMXTAV]UB%]SX67XA1.jpg',
                     songs: [
                         {
                             path: '/songs/1.mp3',
                             songName: 'ハンブレッダーズ「またね」',
-                            cover: 'https://y.qq.com/music/photo_new/T002R300x300M000000jWj7w2FOS5l_1.jpg?max_age=2592000'
+                            cover: 'https://y.qq.com/music/photo_new/T002R300x300M000001F8wVN4GSJ5j.jpg?max_age=2592000'
                         },
                         {
                             path: '/songs/8月を指折り数える君と町で出逢える確率について.mp3',
                             songName: '8月を指折り数える君と町で出逢える確率について',
-                            cover: ''
+                            cover: 'https://tse1-mm.cn.bing.net/th/id/OIP-C.pUIJF8uzjQfnAN4xyIJFtwHaHa?w=159&h=180&c=7&r=0&o=5&pid=1.7'
                         },
                         {
                             path: '/songs/16の夢旅人.mp3',
                             songName: '16の夢旅人',
-                            cover: ''
+                            cover: 'https://tse2-mm.cn.bing.net/th/id/OIP-C.4-rJqPq86fpeWLgW_8SVAwAAAA?w=124&h=150&c=7&r=0&o=5&pid=1.7'
                         },
                         {
                             path: '/songs/DEPARTURES.mp3',
                             songName: 'DEPARTURES',
-                            cover: ''
+                            cover: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.X1XrNj3xO-YHQ6ykFOE0ewAAAA?w=173&h=176&c=7&r=0&o=5&pid=1.7'
                         },
                         {
                             path: '/songs/星見る頃を過ぎても.mp3',
                             songName: '星見る頃を過ぎても',
-                            cover: ''
+                            cover: 'https://tse2-mm.cn.bing.net/th/id/OIP-C.N3zFawoMzWwMYP3PPA6lfQHaFj?w=227&h=180&c=7&r=0&o=5&pid=1.7'
                         },
                         {
                             path: '/songs/桜の唄.mp3',
                             songName: '桜の唄',
-                            cover: ''
+                            cover: 'https://tse2-mm.cn.bing.net/th/id/OIP-C.N3zFawoMzWwMYP3PPA6lfQHaFj?w=227&h=180&c=7&r=0&o=5&pid=1.7'
                         },{
                             path: '/songs/in white M Rie.mp3',
                             songName: 'in white M Rie',
-                            cover: ''
+                            cover: 'https://tse2-mm.cn.bing.net/th/id/OIP-C.ZrR3DAVm2iR6czkjY8v4OgAAAA?w=179&h=184&c=7&r=0&o=5&pid=1.7'
                         },
                         {
                             path: '/songs/in white Spring has come M Rie.mp3',
                             songName: 'in white Spring has come M Rie',
-                            cover: ''
+                            cover: 'https://tse2-mm.cn.bing.net/th/id/OIP-C.ZrR3DAVm2iR6czkjY8v4OgAAAA?w=179&h=184&c=7&r=0&o=5&pid=1.7'
                         },
                         {
                             path: '/songs/Photo_Memories.mp3',
                             songName: 'Photo_Memoriese',
-                            cover: ''
+                            cover: 'https://tse2-mm.cn.bing.net/th/id/OIP-C.ZrR3DAVm2iR6czkjY8v4OgAAAA?w=179&h=184&c=7&r=0&o=5&pid=1.7'
                         },
                         {
                             path: '/songs/Still Alive.mp3',
                             songName: 'Still Alive',
-                            cover: ''
+                            cover: 'https://tse4-mm.cn.bing.net/th/id/OIP-C.WaxVI89989S3ehAIM0wcygHaEK?w=296&h=180&c=7&r=0&o=5&pid=1.7'
                         },
                         {
                             path: '/songs/サウダージ.mp3',
                             songName: 'サウダージ',
-                            cover: ''
+                            cover: 'https://tse4-mm.cn.bing.net/th/id/OIP-C.dxbJy5wvIm0N7K1JbvNF9QHaE_?w=300&h=202&c=7&r=0&o=5&pid=1.7'
                         },
                         {
                             path: '/songs/アポロ.mp3',
                             songName: 'アポロ',
-                            cover: ''
+                            cover: 'https://tse1-mm.cn.bing.net/th/id/OIP-C.D_IBwogugB7hI9iyJGBoiAHaGl?w=205&h=182&c=7&r=0&o=5&pid=1.7'
                         },
+                        {
+                            path: '/songs/秋風の狂詩曲.mp3',
+                            songName: '秋風の狂詩曲',
+                            cover: 'https://tse4-mm.cn.bing.net/th/id/OIP-C.blMhQYshKdybG-gATysAowD6D6?w=187&h=187&c=7&r=0&o=5&pid=1.7'
+                        }
                     ]
                 }
             }
         ],
+
         /*
         * 气泡插件，使用：https://aurora.xcye.xyz/plugin/bubble/
         * */
@@ -220,10 +226,10 @@ module.exports = {
     ],
     //这里使用本地主题
     //theme: path.resolve(__dirname, "../../Aurora-theme/lib/node/index.js"),
-    theme: 'Aurora',
+    theme: 'aurora',
 
     //站点title
-    title: "海盗的古本屋",
+    title: "竹紫古本屋",
 
     //设置站点语言
     lang: 'zh-CN',
@@ -286,7 +292,7 @@ module.exports = {
         showFont: "程",
 
         //首页中间hero图片地址
-        heroImg: '/avatar.jpg',
+        heroImg: '/2JG]8B0YA6TU.png',
 
         //logo图片地址
         logo: "/avatar.png",
@@ -313,7 +319,7 @@ module.exports = {
         headTitle: "this is headTitle",
 
         //站点描述
-        description: "这里是海盗的古本屋",
+        description: "这里是竹紫古本屋",
 
         //站点关键词，在后续版本中，还需优化 请使用英文状态下的逗号','隔开
         keyword: "vuepress主题,vuepress theme,生活琐事,二次元博客,简约博客,博客主题,静态主题",
@@ -329,7 +335,7 @@ module.exports = {
         * */
         about: [
             {
-                bar: true,
+                bar: false,
                 title: "我?",
                 describe: [
                     "电子黑奴",
@@ -337,11 +343,11 @@ module.exports = {
                     '喜欢吃电子炸鸡电子葡萄酒"',
                     "喜欢打电动，每日最低消费2小时 ",
                     "喜欢的电影月球旅行记，大都会，卡里加里博士的小屋，银河漫游指南，银翼杀手，布达佩斯大饭店，各类爆米花，晚间剧场",
-                    "互联网遗老，正在小破站安享晚年",
+                    "DOOMMER",
                     "正在追的番有每个季度的厕纸和废萌日常番",
                 ],
                 tag: [
-                    "草履虫",
+                    "galgame",
                     "社恐",
                     "番剧",
                     "电影",
@@ -354,24 +360,22 @@ module.exports = {
                 showTag: true,
             },
             {
-                bar: true,
-                title: "大三规划",
+                bar: false,
+                title: "简介",
                 describe: [
-                    "吃",
-                    "喝",
-                    "拉",
-                    "我和阎王有个约会",
-                    "每1-2年一部旗舰级静止系MAD",
-                    "换电脑",
-                    "去外星旅游",
+                    "失败人生",
+                    "好想转生",
+                    "转个异世界JK",
+                    "你害没活腻呢？",
+                    "呃",
                 ],
                 tag: ["大家加油呀`Σ(￣□￣||)` ..."],
                 showTag: true,
             },
             {
-                bar: false,
+                bar: true,
                 title: "未来规划",
-                describe: ["后端工程师", "赚money"],
+                describe: ["每1-2年一部旗舰级静止系MAD", "换电脑",],
                 tag: ["忘记过去，展望未来"],
                 showTag: true,
             },
@@ -381,23 +385,39 @@ module.exports = {
                 describe: [
                     {
                         name: "战地1942-2016跨年战",
-                        score: 3,
+                        score: 100,
                     },
                     {
                         name: "2022黄金祭",
-                        score: 0,
+                        score: 100,
+                    },
+                    {
                     },
                 ],
-                tag: ["这次不一样"],
                 showTag: true,
             },
             {
-                title: "闲话",
                 bar: true,
+                title: "闲话",
+                describe: [
+                    "说点我想说的，听点你爱听不听",
+                ],
+            },
+            {
+                bar: false,
+                title: "",
+                describe: [
+                    "",
+                ],
+                tag: [],
+                showTag: false,
+            },
+            {
+                title: "",
+                bar: false,
                 tag: [],
                 showTag: false,
                 describe: [
-                    "说点我想说的，听点你爱听不听",
                     "",
                 ],
             },
@@ -442,6 +462,7 @@ module.exports = {
             "<img src='/元素/closetimg7.png' class='素材5' />",
             "<img src='/元素/stand.png' class='素材6' />",
             "<img src='/元素/bg (2).jpg' class='素材7' />",
+            "<img src='/元素/sd (5).png' class='素材8' />",
         ],
 
         //是否显示页脚，控制全局
@@ -515,23 +536,23 @@ module.exports = {
         //海报分享配置
         poster: {
             //博客描述
-            description: "",
+            description: "古本屋",
 
             //作者
             author: "竹紫",
 
             //博客前缀
-            preBlog: "Reisen",
+            preBlog: "Tausagi",
 
             //海报博客名称后缀
             suffixBlog: " theme",
 
             //头像，请放置在docs/public目录下，或者请保证此图片链接能够跨域访问，否则头像不能正常显示
-            avatar: "/avatar.jpg",
+            avatar: "/jpoagt5sd.png",
         },
 
         //是否展示从网络上请求回来的说说 如果启用，请自己写后台服务，修改源码，目前暂未在主题中加入，期望在将来能够实现，组件位置docs/.vuepress/theme/lib/client/components/Mood.vue
-        showOnlineMood: false,
+        showOnlineMood: true,
 
         //是否开启在线添加说说功能，如果需要，请自己写后台，修改源码，目前在主题内部暂未加入 组件位置docs/.vuepress/theme/lib/client/components/child/AddMood.vue
         showMoodEdit: false,
@@ -550,33 +571,22 @@ module.exports = {
 
             //文章顶部图片，数组，每次从数组中随机选择一张
             page: [
-            "/bg/1.png",
-            '/bg/2.png',
-            '/bg/3.jpg',
-            '/bg/4.jpg',
-            '/bg/5.jpg',
-            '/bg/6.png',
-            '/bg/7.png',
-            '/bg/8.jpg',
-            '/bg/9.jpg',
-            '/bg/10.png',
-            '/bg/11.png',
-            '/bg/12.png',
-            '/bg/13.png',
-            '/bg/14.png',
+                "/bg/5.png",
+                '/bg/4.png',
+                '/bg/7.png'
             ],
             //友情链接页面
             friend: [
-                "/bg/1.png",
+                "/bg/6.png",
                 '/bg/2.png'
             ],
             //标签页面
             tag: [
-                "/bg/14.png"
+                "/bg/2.png"
             ],
             //心情页面
             mood: [
-                "/bg/10.png"
+                "/bg/1.png"
             ],
         },
 
@@ -601,7 +611,19 @@ module.exports = {
         //手机端首页背景图片
         homeWpsMobile: [
             "/bg/1.png",
-            '/bg/4.png',
+            '/bg/2.png',
+            '/bg/3.jpg',
+            '/bg/4.jpg',
+            '/bg/5.jpg',
+            '/bg/6.png',
+            '/bg/7.png',
+            '/bg/8.jpg',
+            '/bg/9.jpg',
+            '/bg/10.png',
+            '/bg/11.png',
+            '/bg/12.png',
+            '/bg/13.png',
+            '/bg/14.png',
         ],
 
         //首页文章显示条数，默认为4，此值不推荐设置太大
@@ -609,7 +631,7 @@ module.exports = {
 
         //侧边栏配置
         //github地址
-        githubUrl: "https://github.com/Reisenzone",
+        githubUrl: "https://github.com/qsyyke/vuepress-theme-aurora",
 
         //最新文章数量，默认为6
         latestPageSize: 6,
@@ -633,7 +655,7 @@ module.exports = {
         showAddMood: true,
 
         //生成海报的顶部图片api接口，请注意，该接口需要直接返回图片地址，不能有跨域问题，设置之前，可以先使用ajax看是否存在跨域
-        postImgApi: 'https://www.dmoe.cc/random.php?return=text?time=-Infinity',
+        postImgApi: 'https://picture.cco.vin/pic/rmimg?type=bing',
 
         /*
         * 以下为v1.5.4新增功能
@@ -649,7 +671,7 @@ module.exports = {
         articleH4Icon: '⛄',
 
         //v1.6.4新增配置
-        sidebarAvatar: '/avatar.jpg',
+        sidebarAvatar: '/jpoagt5sd.png',
 
         //1.7.1增加配置
         sugCountPerMin: 300,
@@ -752,7 +774,7 @@ module.exports = {
         homeTopText: '置顶',
 
         //侧边栏一句话描述
-        sidebarDesc: '愿世界永保和平~',
+        sidebarDesc: '滅び朽ちる世界に追憶の花束を',
 
         /*
         * 下面的是v1.13.0版本的配置

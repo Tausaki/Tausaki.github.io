@@ -17,7 +17,14 @@ module.exports = {
                 {
                     text: '吐槽',
                     children: [
-                        '/吐槽/',
+                        {
+                            text:'吐槽',
+                            link:'/故事绘/吐槽/吐槽导航.md'
+                        },
+                        {
+                            text: '有感而发',
+                            link: '故事绘/有感而发/有感而发导航.md'
+                        }
                     ]
                 },
             ]
@@ -29,19 +36,32 @@ module.exports = {
                 {
                     text: '概念图',
                     children: [
-                        '/万维/',
+                        {
+                            text:"万维",
+                            link:"/万维/万维导航.md"
+                        }
                     ]
                 },
                 {
                     text: "分镜and参考图",
                     children: [
-                        '/分镜/'
+                        {
+                             text:'分镜',
+                             link:"/分镜/分镜导航.md"
+                        },
+                        {
+                            text: '参考图',
+                            link: '/参考图/参考图导航.md'
+                        }
                     ]
                 },
                 {
                     text: '卡德什花园',
                     children: [
-                        '/卡洛斯坟场/'
+                        {
+                             text:'卡德什花园',
+                             link:"/卡德什花园/卡德什花园导航.md"
+                        }
                     ]
                 }
             ]
@@ -51,20 +71,30 @@ module.exports = {
             iconClass: 'aurora-navbar-shoulijindu-xuanzhong',
             children: [
                 {
-                    link:"",
                     text: '喜欢的MAD',
                     children: [
+                        {
+                             text:"喜欢的MAD",
+                             link:"/LoveMad/喜欢的mad导航.md"
+                        }
                     ]
                 },
                 {
-                    text: '我的MAD',
+                    text: '造船厂',
                     children: [
+                        {
+                              text:"我的MAD",
+                              link:"/Mymad/Mymad导航.md"
+                        }
                     ]
                 },
                 {
-                    link:"https://www.bilibili.com/video/BV1M84y1S7zF/",
-                    text: '后日谈',
+                    text: '后室',
                     children: [
+                        {
+                            text:"后日谈",
+                            link:"/Mymad/后日谈/后日谈导航.md"
+                        }
                     ]
                 },
             ]
@@ -75,18 +105,34 @@ module.exports = {
             children: [
                 {   text: "Galgame",
                     children: [
-                        "/Galgame/2017",
+                        {
+                            text:"感想",
+                            link:"/Galgame/感想/感想导航.md",
+
+                            text:"准备游玩",
+                            link:"http://bangumi.tv/game/list/402462/wish",
+
+                            text:"玩过",
+                            link:"http://bangumi.tv/game/list/402462/collect"
+                        }
                     ]
                 },
-                {   text: "追番",
+                {
+                    text: "追番",
                     children: [
-                        "/Anime/",
+                        {
+                             text:"我看过的动画",
+                             link:"http://bangumi.tv/anime/list/402462/collect"
+                        }
                     ]
                 },
                 {
                     text: 'Waifu',
                     children: [
-                        '/Waifu/'
+                        {
+                            text:"老婆们",
+                            link:"https://bangumi.tv/user/402462/mono"
+                        }
                     ]
                 }
             ],
@@ -96,45 +142,67 @@ module.exports = {
             iconClass: 'aurora-navbar-si-glyph-egg',
             children: [
                 {
-                    text: "年度推荐",
+                    text: "年度十佳",
                     children: [
-                        "/Music/2017-2022/",
+                        {
+                            text:"2017-2022",
+                            link:"/Music/年度十佳导航.md"
+                        }
                     ]
                 },
                 {
                     text: "喜欢的音乐",
                     children: [
-                        "/Music/2023/",
+                        {
+                            text:"2023",
+                            link:"/Music/Music导航.md"
+                        }
                     ]
                 },
                 {
                     text: "图库",
                     children: [
-                        "/Pixiv/2023/",
+                        {
+                             text:"2023",
+                             link:'/Pixiv/2023/readme.md'
+                        }
                     ]
                 }
             ],
         },
         {
-            text: '游戏专区',
+            text: '游戏风云',
             iconClass: 'aurora-navbar-si-glyph-egg',
             children: [
                 {
                     text: "单机类",
                     children: [
-                        "/Game/单机/",
+                        {
+                            text:"战争游戏 红龙",
+                            link:"/Game/单机/战争游戏红龙/"
+                        },
+                        {
+                            text: 'DCS',
+                            link: '/DCS/readme.md'
+                        }
                     ]
                 },
                 {
                     text: "网游类",
                     children: [
-                        "/Game/网游/",
+                        {
+                            text:"战争雷霆",
+                            link:"/Game/网游"
+                        }
                     ]
                 },
                 {
                     text: "手游类",
                     children: [
-                        "/Game/手游/",
+                        {
+                            text:"战双帕米什",
+                            link:"/Game/手游"
+                        }
                     ]
                 }
             ],
@@ -146,13 +214,43 @@ module.exports = {
                 {
                     text: "AGH VIII",
                     children: [
-                        "/AGH VIII/",
-                    ]
+                        {
+                            text:"2017",
+                            link:"/AGH VIII/2017.md"
+                        },
+                        {
+                            text:"2018",
+                            link:"/AGH VIII/2018.md"
+                        },
+                        {
+                            text:"2019",
+                            link:"/AGH VIII/2019.md"
+                        },
+                        {
+                            text:"2020",
+                            link:"/AGH VIII/2020.md"
+                        },
+                        {
+                            text:"2021",
+                            link:"/AGH VIII/2021.md"
+                        },
+                        {
+                            text:"2022",
+                            link:"/AGH VIII/2022.md"
+                        },
+                        {
+                            text:"2023",
+                            link:"/AGH VIII/2023.md",
+                        }
+                    ],
                 },
                 {
                     text: "赛事经历",
                     children: [
-                        "/比赛/",
+                        {
+                            text:"比赛",
+                            link:"/比赛/比赛导航.md"
+                        }
                     ]
                 },
             ],

@@ -60,6 +60,20 @@ module.exports = {
                     describe: "I create some Seishika MADs and like reading visual novels. I also like games, music and.. well, whatever.",
                     cover: 'https://ametasan.github.io/images/kamyu.jpg'
                 },
+                {
+                    //网站标题
+                    title: "Ycx STUDIOS",
+
+                    //站点链接
+                    url: "https://www.chinalcmod.com/",
+
+                    //站点logo
+                    logo: "https://q.qlogo.cn/g?b=qq&nk=1287984258&s=0",
+
+                    //站点描述
+                    describe: "",
+                    cover: 'https://cdn.iycx.top/blog/bg.jpg'
+                },
             ]
         },
         {
@@ -79,10 +93,24 @@ module.exports = {
                     describe: "人生若只是初见,何事秋风悲画扇",
                     cover: '/friendimg/myself.png'
                 },
+                {
+                    //网站标题
+                    title: "Ycx STUDIOS",
+
+                    //站点链接
+                    url: "https://www.chinalcmod.com/",
+
+                    //站点logo
+                    logo: "https://q.qlogo.cn/g?b=qq&nk=1287984258&s=0",
+
+                    //站点描述
+                    describe: "",
+                    cover: 'https://cdn.iycx.top/blog/bg.jpg'
+                },
             ]
         },
         {
-            title: '小伙伴',
+            title: '特别感谢',
             links: [
                 {
                     //网站标题
@@ -97,6 +125,20 @@ module.exports = {
                     //站点描述
                     describe: "人生若只是初见,何事秋风悲画扇",
                     cover: '/friendimg/myself.png'
+                },
+                {
+                    //网站标题
+                    title: "Ycx STUDIOS",
+
+                    //站点链接
+                    url: "https://www.chinalcmod.com/",
+
+                    //站点logo
+                    logo: "https://q.qlogo.cn/g?b=qq&nk=1287984258&s=0",
+
+                    //站点描述
+                    describe: "",
+                    cover: 'https://cdn.iycx.top/blog/bg.jpg'
                 },
             ]
         },
