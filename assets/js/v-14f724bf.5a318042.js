@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreisen=self.webpackChunkreisen||[]).push([[69],{4770:(e,t,r)=>{r.r(t),r.d(t,{data:()=>n});const n={key:"v-14f724bf",path:"/mood/",title:"",lang:"zh-CN",frontmatter:{layout:"Mood",slug:"aurora-mood"},excerpt:"",headers:[],git:{}}},8784:(e,t,r)=>{r.r(t),r.d(t,{default:()=>a});const n={},a=(0,r(3744).Z)(n,[["render",function(e,t){return null}]])}}]);

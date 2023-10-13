@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreisen=self.webpackChunkreisen||[]).push([[5],{2988:(e,t,r)=>{r.r(t),r.d(t,{data:()=>a});const a={key:"v-74bc627b",path:"/about/",title:"",lang:"zh-CN",frontmatter:{layout:"About",slug:"aurora-about"},excerpt:"",headers:[],git:{}}},9085:(e,t,r)=>{r.r(t),r.d(t,{default:()=>u});const a={},u=(0,r(3744).Z)(a,[["render",function(e,t){return null}]])}}]);
