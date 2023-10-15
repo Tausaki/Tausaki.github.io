@@ -15,16 +15,16 @@ module.exports = {
             children: [
                 //在这里面的是二级标题，不能为二级标题设置图标
                 {
-                    text: '吐槽',
+                    text: '日常',
                     children: [
                         {
-                            text:'吐槽',
-                            link:'/故事绘/吐槽/吐槽导航.md'
+                            text:'日常',
+                            link:'https://reisenzone.github.io/tag/?tag=日常',
                         },
                         {
                             text: '有感而发',
-                            link: '故事绘/有感而发/有感而发导航.md'
-                        }
+                            link: 'https://reisenzone.github.io/tag/?tag=有感而发',
+                        },
                     ]
                 },
             ]
@@ -38,21 +38,21 @@ module.exports = {
                     children: [
                         {
                             text:"万维",
-                            link:"/万维/万维导航.md"
-                        }
+                            link:"https://reisenzone.github.io/tag/?tag=万维",
+                        },
                     ]
                 },
                 {
-                    text: "分镜and参考图",
+                    text: "电幻国度",
                     children: [
                         {
                              text:'分镜',
-                             link:"/分镜/分镜导航.md"
+                             link:"https://reisenzone.github.io/tag/?tag=分镜",
                         },
                         {
-                            text: '参考图',
-                            link: '/参考图/参考图导航.md'
-                        }
+                             text: '参考图',
+                             link: 'https://reisenzone.github.io/tag/?tag=参考图d',
+                        },
                     ]
                 },
                 {
@@ -60,8 +60,8 @@ module.exports = {
                     children: [
                         {
                              text:'卡德什花园',
-                             link:"/卡德什花园/卡德什花园导航.md"
-                        }
+                             link:"https://reisenzone.github.io/tag/?tag=卡德什花园",
+                        },
                     ]
                 }
             ]
@@ -75,8 +75,8 @@ module.exports = {
                     children: [
                         {
                              text:"喜欢的MAD",
-                             link:"/LoveMad/喜欢的mad导航.md"
-                        }
+                             link:"https://reisenzone.github.io/tag/?tag=Lovemad",
+                        },
                     ]
                 },
                 {
@@ -84,8 +84,8 @@ module.exports = {
                     children: [
                         {
                               text:"我的MAD",
-                              link:"/Mymad/Mymad导航.md"
-                        }
+                              link:"https://reisenzone.github.io/tag/?tag=Mymad",
+                        },
                     ]
                 },
                 {
@@ -93,8 +93,8 @@ module.exports = {
                     children: [
                         {
                             text:"后日谈",
-                            link:"/Mymad/后日谈/后日谈导航.md"
-                        }
+                            link:"https://reisenzone.github.io/tag/?tag=后日谈",
+                        },
                     ]
                 },
             ]
@@ -106,66 +106,88 @@ module.exports = {
                 {   text: "Galgame",
                     children: [
                         {
-                            text:"感想",
-                            link:"/Galgame/感想/感想导航.md",
-
+                            text:"游记",
+                            link:"https://reisenzone.github.io/tag/?tag=游记",
+                        },
+                        {
                             text:"准备游玩",
                             link:"http://bangumi.tv/game/list/402462/wish",
-
+                        },
+                        {
                             text:"玩过",
-                            link:"http://bangumi.tv/game/list/402462/collect"
-                        }
+                            link:"http://bangumi.tv/game/list/402462/collect",
+                        },
+                        {
+                            text:"gal攻略",
+                            link:"https://seiya-saiga.com/",
+                        },
+                        {
+                            text:"gal特殊码",
+                            link:"https://www.ymgal.games/specialcode",
+                        },
                     ]
                 },
                 {
-                    text: "追番",
+                    text: "Anime",
                     children: [
                         {
-                             text:"我看过的动画",
-                             link:"http://bangumi.tv/anime/list/402462/collect"
-                        }
+                            text:"动漫",
+                            link:"https://reisenzone.github.io/tag/?tag=Anime",
+                        },
+                        {
+                            text:"我看过的动画",
+                            link:"http://bangumi.tv/anime/list/402462/collect",
+                        },
+                        {
+                            text:"Waifu",
+                            link:"https://bangumi.tv/user/402462/mono",
+                        },
                     ]
                 },
                 {
-                    text: 'Waifu',
+                    text: '妖精咖啡厅',
                     children: [
                         {
-                            text:"老婆们",
-                            link:"https://bangumi.tv/user/402462/mono"
-                        }
+                            text:"孤独少女",
+                            link:"https://reisenzone.github.io/tag/?tag=孤独少女"
+                        },
                     ]
                 }
             ],
         },
         {
-            text: '影音馆',
+            text: '古書堂',
             iconClass: 'aurora-navbar-si-glyph-egg',
             children: [
                 {
-                    text: "年度十佳",
+                    text: "影音馆",
                     children: [
                         {
                             text:"2017-2022",
-                            link:"/Music/年度十佳导航.md"
-                        }
+                            link:"https://reisenzone.github.io/tag/?tag=music"
+                        },
                     ]
                 },
                 {
-                    text: "喜欢的音乐",
+                    text: "音乐街",
                     children: [
                         {
                             text:"2023",
-                            link:"/Music/Music导航.md"
-                        }
+                            link:"https://reisenzone.github.io/tag/?tag=music"
+                        },
                     ]
                 },
                 {
-                    text: "图库",
+                    text: "图书",
                     children: [
                         {
-                             text:"2023",
-                             link:'/Pixiv/2023/readme.md'
-                        }
+                             text:"书架",
+                             link:'https://reisenzone.github.io/tag/?tag=书架'
+                        },
+                        {
+                             text:"PIXIV2023",
+                             link:'https://reisenzone.github.io/tag/?tag=Pixiv'
+                        },
                     ]
                 }
             ],
@@ -179,21 +201,21 @@ module.exports = {
                     children: [
                         {
                             text:"战争游戏 红龙",
-                            link:"/Game/单机/战争游戏红龙/"
+                            link:"https://reisenzone.github.io/tag/?tag=战争游戏红龙",
                         },
                         {
                             text: 'DCS',
-                            link: '/DCS/readme.md'
-                        }
+                            link: 'https://reisenzone.github.io/tag/?tag=DCS',
+                        },
                     ]
                 },
                 {
                     text: "网游类",
                     children: [
                         {
-                            text:"战争雷霆",
-                            link:"/Game/网游"
-                        }
+                            text:"战舰世界",
+                            link:"https://reisenzone.github.io/tag/?tag=战舰世界",
+                        },
                     ]
                 },
                 {
@@ -201,8 +223,8 @@ module.exports = {
                     children: [
                         {
                             text:"战双帕米什",
-                            link:"/Game/手游"
-                        }
+                            link:"https://reisenzone.github.io/tag/?tag=手游",
+                        },
                     ]
                 }
             ],
@@ -241,7 +263,7 @@ module.exports = {
                         {
                             text:"2023",
                             link:"/AGH VIII/2023.md",
-                        }
+                        },
                     ],
                 },
                 {
@@ -249,8 +271,8 @@ module.exports = {
                     children: [
                         {
                             text:"比赛",
-                            link:"/比赛/比赛导航.md"
-                        }
+                            link:"https://reisenzone.github.io/tag/?tag=比赛",
+                        },
                     ]
                 },
             ],
@@ -265,7 +287,7 @@ module.exports = {
                         {
                             text: 'Me',
                             link: '/about'
-                        }
+                        },
                     ],
                 },
                 {
@@ -281,7 +303,7 @@ module.exports = {
                         {
                             text: 'archive',
                             link: '/archive'
-                        }
+                        },
                     ],
                 },
             ],

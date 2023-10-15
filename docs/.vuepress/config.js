@@ -454,7 +454,7 @@ module.exports = {
 
         //页脚信息，支持HTML，这是一个数组
         footer: [
-            "Copyright © by qsyyke All Rights Reserved.",
+            "本网站的建立特别感谢:YCX、Mackerel、Akki、saltedfish、Una-Atadura、土豆、Aurora",
             "<img src='/元素/sd5.png' class='素材1' />",
             "<img src='/元素/sd (3).png' class='素材2' />",
             "<img src='/元素/sd (4).png' class='素材3' />",
