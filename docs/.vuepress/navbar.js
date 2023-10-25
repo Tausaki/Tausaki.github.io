@@ -5,7 +5,7 @@ module.exports = {
             //设置标签
             text: '快速开始',
             //设置此标签的链接
-            link: 'https://www.bilibili.com/video/BV1M84y1S7zF/',
+            link: 'https://kf.miaola.work/',
             //设置此导航栏的图标，请注意，导航图标只对一级标题有用，
             iconClass: 'aurora-navbar-si-glyph-dial-number-1'
         },

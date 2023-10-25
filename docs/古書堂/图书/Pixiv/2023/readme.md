@@ -1,7 +1,7 @@
 ---
 tag: [相册,二次元,Pixiv,]
 
-coverUrl: "https://h2.ioliu.cn/bing/BrassBandTrumpet_ZH-CN8703910231_640x480.jpg?imageslim"
+
 ---
 
 ![img](https://img.moeimg.net/wp-content/uploads/archives19/19622/1_ot7hkej5h8.jpg),

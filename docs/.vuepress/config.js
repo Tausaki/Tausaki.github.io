@@ -151,7 +151,12 @@ module.exports = {
                             path: '/songs/秋風の狂詩曲.mp3',
                             songName: '秋風の狂詩曲',
                             cover: 'https://tse4-mm.cn.bing.net/th/id/OIP-C.blMhQYshKdybG-gATysAowD6D6?w=187&h=187&c=7&r=0&o=5&pid=1.7'
-                        }
+                        },
+                        {
+                            path: '/songs/不等価交換.mp3',
+                            songName: '不等価交換',
+                            cover: 'https://img2.doubanio.com/view/subject/m/public/s34108752.jpg'
+                        },
                     ]
                 }
             }
@@ -461,7 +466,7 @@ module.exports = {
             "<img src='/元素/sd 6.png' class='素材4' />",
             "<img src='/元素/closetimg7.png' class='素材5' />",
             "<img src='/元素/stand.png' class='素材6' />",
-            "<img src='/元素/bg (2).jpg' class='素材7' />",
+            "<img src='/bg/bg (2).jpg' class='素材7' />",
             "<img src='/元素/sd (5).png' class='素材8' />",
         ],
 

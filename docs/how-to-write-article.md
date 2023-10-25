@@ -3,7 +3,7 @@
 date: "2021/11/26 20:08"
 
 # 手动设置此篇文章封面
-coverUrl: "https://h2.ioliu.cn/bing/BrassBandTrumpet_ZH-CN8703910231_640x480.jpg?imageslim"
+coverUrl: "https://www.dmoe.cc/random.php"
 
 # 是否置顶
 sticky: true
