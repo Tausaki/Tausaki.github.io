@@ -2,13 +2,16 @@
 
 title: 正在追番
 
+sticky: false
+
+keyword: Ainme,
+
+description: Ainme,
+
+tag: [Ainme,]
 
 
-
-tag: [追番,二次元,anime,]
-
-
-categories: [二次元,追番,anime,]
+categories: [Ainme,]
 ---
 ![贴图]()
 

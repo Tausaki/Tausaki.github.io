@@ -17,10 +17,10 @@ description: 有感而发,
 title: 【静止画MAD】小小的神明【樱之诗】
 
 
-tag: [有感而发,静止系MAD]
+tag: [有感而发,]
 
 
-categories: [有感而发,静止系MAD]
+categories: [有感而发,]
 ---
 ![贴图](https://cdn.donmai.us/sample/55/79/__hanako_blue_archive_drawn_by_eip_pepai__sample-5579a24527d81d29f8572f42c727c495.jpg)
 

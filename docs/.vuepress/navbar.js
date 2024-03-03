@@ -37,8 +37,8 @@ module.exports = {
                     text: '概念图',
                     children: [
                         {
-                            text:"万维",
-                            link:"https://reisenzone.github.io/tag/?tag=万维",
+                            text:"遗海拾枝",
+                            link:"https://reisenzone.github.io/tag/?tag=遗海拾枝",
                         },
                     ]
                 },
@@ -50,17 +50,17 @@ module.exports = {
                              link:"https://reisenzone.github.io/tag/?tag=分镜",
                         },
                         {
-                             text: '参考图',
-                             link: 'https://reisenzone.github.io/tag/?tag=参考图d',
+                             text: '',
+                             link: 'https://reisenzone.github.io/tag/?tag=',
                         },
                     ]
                 },
                 {
-                    text: '卡德什花园',
+                    text: '星座线',
                     children: [
                         {
-                             text:'卡德什花园',
-                             link:"https://reisenzone.github.io/tag/?tag=卡德什花园",
+                             text:'星座线',
+                             link:"https://reisenzone.github.io/tag/?tag=星座线",
                         },
                     ]
                 }
@@ -71,20 +71,20 @@ module.exports = {
             iconClass: 'aurora-navbar-shoulijindu-xuanzhong',
             children: [
                 {
-                    text: '喜欢的MAD',
+                    text: '彼方探访',
                     children: [
                         {
-                             text:"喜欢的MAD",
-                             link:"https://reisenzone.github.io/tag/?tag=Lovemad",
+                             text:"MAD",
+                             link:"https://reisenzone.github.io/tag/?tag=mad",
                         },
                     ]
                 },
                 {
-                    text: '造船厂',
+                    text: '私小说',
                     children: [
                         {
-                              text:"我的MAD",
-                              link:"https://reisenzone.github.io/tag/?tag=Mymad",
+                              text:"私小说",
+                              link:"https://reisenzone.github.io/tag/?tag=私小说",
                         },
                     ]
                 },
@@ -92,8 +92,8 @@ module.exports = {
                     text: '后室',
                     children: [
                         {
-                            text:"后日谈",
-                            link:"https://reisenzone.github.io/tag/?tag=后日谈",
+                            text:"",
+                            link:"https://reisenzone.github.io/tag/?tag=",
                         },
                     ]
                 },
@@ -185,7 +185,7 @@ module.exports = {
                              link:'https://reisenzone.github.io/tag/?tag=书架'
                         },
                         {
-                             text:"PIXIV2023",
+                             text:"PIXIV",
                              link:'https://reisenzone.github.io/tag/?tag=Pixiv'
                         },
                     ]
@@ -200,12 +200,12 @@ module.exports = {
                     text: "单机类",
                     children: [
                         {
-                            text:"战争游戏 红龙",
-                            link:"https://reisenzone.github.io/tag/?tag=战争游戏红龙",
+                            text:"",
+                            link:"https://reisenzone.github.io/tag/?tag=",
                         },
                         {
                             text: 'DCS',
-                            link: 'https://reisenzone.github.io/tag/?tag=DCS',
+                            link: 'https://reisenzone.github.io/tag/?tag= DCS',
                         },
                     ]
                 },
@@ -214,7 +214,7 @@ module.exports = {
                     children: [
                         {
                             text:"战舰世界",
-                            link:"https://reisenzone.github.io/tag/?tag=战舰世界",
+                            link:"https://reisenzone.github.io/tag/?tag=网络游戏",
                         },
                     ]
                 },
@@ -222,7 +222,7 @@ module.exports = {
                     text: "手游类",
                     children: [
                         {
-                            text:"战双帕米什",
+                            text:"星穹铁道",
                             link:"https://reisenzone.github.io/tag/?tag=手游",
                         },
                     ]
@@ -238,33 +238,9 @@ module.exports = {
                     children: [
                         {
                             text:"2017",
-                            link:"/AGH VIII/2017.md"
+                            link:"https://reisenzone.github.io/tag/?tag= AGH VIII"
                         },
-                        {
-                            text:"2018",
-                            link:"/AGH VIII/2018.md"
-                        },
-                        {
-                            text:"2019",
-                            link:"/AGH VIII/2019.md"
-                        },
-                        {
-                            text:"2020",
-                            link:"/AGH VIII/2020.md"
-                        },
-                        {
-                            text:"2021",
-                            link:"/AGH VIII/2021.md"
-                        },
-                        {
-                            text:"2022",
-                            link:"/AGH VIII/2022.md"
-                        },
-                        {
-                            text:"2023",
-                            link:"/AGH VIII/2023.md",
-                        },
-                    ],
+                    ]
                 },
                 {
                     text: "赛事经历",

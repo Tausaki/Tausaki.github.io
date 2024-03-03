@@ -86,7 +86,7 @@ module.exports = {
 
                 //本地歌曲
                 localSongs: {
-                    coverUrl: '/bg/Y]CLQOMXTAV]UB%]SX67XA1.jpg',
+                    coverUrl: 'https://cdn.donmai.us/sample/73/b1/__ansel_arknights_drawn_by_odjikasu__sample-73b188fbdc4db3b394f8ef16eb344f04.jpg',
                     songs: [
                         {
                             path: '/songs/1.mp3',
@@ -118,24 +118,24 @@ module.exports = {
                             songName: '桜の唄',
                             cover: 'https://tse2-mm.cn.bing.net/th/id/OIP-C.N3zFawoMzWwMYP3PPA6lfQHaFj?w=227&h=180&c=7&r=0&o=5&pid=1.7'
                         },{
-                            path: '/songs/in white M Rie.mp3',
-                            songName: 'in white M Rie',
-                            cover: 'https://tse2-mm.cn.bing.net/th/id/OIP-C.ZrR3DAVm2iR6czkjY8v4OgAAAA?w=179&h=184&c=7&r=0&o=5&pid=1.7'
+                            path: '/songs/Kikoenaiyouni.mp3',
+                            songName: 'Kikoenaiyouni',
+                            cover: ''
                         },
                         {
-                            path: '/songs/in white Spring has come M Rie.mp3',
-                            songName: 'in white Spring has come M Rie',
-                            cover: 'https://tse2-mm.cn.bing.net/th/id/OIP-C.ZrR3DAVm2iR6czkjY8v4OgAAAA?w=179&h=184&c=7&r=0&o=5&pid=1.7'
+                            path: '/songs/アマネ.mp3',
+                            songName: 'アマネ',
+                            cover: ''
                         },
                         {
-                            path: '/songs/Photo_Memories.mp3',
-                            songName: 'Photo_Memoriese',
-                            cover: 'https://tse2-mm.cn.bing.net/th/id/OIP-C.ZrR3DAVm2iR6czkjY8v4OgAAAA?w=179&h=184&c=7&r=0&o=5&pid=1.7'
+                            path: '/songs/サイアオタイプ.mp3',
+                            songName: 'サイアオタイプ',
+                            cover: 'https://tse2-mm.cn.bing.net/th/id/OIP-C.7PIhAcptrXvXal3X2gcF7wAAAA?rs=1&pid=ImgDetMain'
                         },
                         {
-                            path: '/songs/Still Alive.mp3',
-                            songName: 'Still Alive',
-                            cover: 'https://tse4-mm.cn.bing.net/th/id/OIP-C.WaxVI89989S3ehAIM0wcygHaEK?w=296&h=180&c=7&r=0&o=5&pid=1.7'
+                            path: '/songs/スプートニク.mp3',
+                            songName: 'スプートニク',
+                            cover: ''
                         },
                         {
                             path: '/songs/サウダージ.mp3',
@@ -156,6 +156,31 @@ module.exports = {
                             path: '/songs/不等価交換.mp3',
                             songName: '不等価交換',
                             cover: 'https://img2.doubanio.com/view/subject/m/public/s34108752.jpg'
+                        },
+                        {
+                            path: '/songs/ハテノハテ.mp3',
+                            songName: 'ハテノハテ',
+                            cover: ''
+                        },
+                        {
+                            path: '/songs/悲しみの街、君の涙で滲む.mp3',
+                            songName: '悲しみの街、君の涙で滲む',
+                            cover: ''
+                        },
+                        {
+                            path: '/songs/風になって.mp3',
+                            songName: '風になって',
+                            cover: ''
+                        },
+                        {
+                            path: '/songs/空になる.mp3',
+                            songName: '空になる',
+                            cover: ''
+                        },
+                        {
+                            path: '/songs/夢から醒めた憐れな野獣だな.mp3',
+                            songName: '夢から醒めた憐れな野獣だな',
+                            cover: ''
                         },
                     ]
                 }
@@ -601,6 +626,7 @@ module.exports = {
             '/bg/2.png',
             '/bg/3.jpg',
             '/bg/4.jpg',
+            '/bg/4.png',
             '/bg/5.jpg',
             '/bg/6.png',
             '/bg/7.png',
@@ -611,6 +637,12 @@ module.exports = {
             '/bg/12.png',
             '/bg/13.png',
             '/bg/14.png',
+            '/bg/15.png',
+            '/bg/16.jpg',
+            '/bg/17.png',
+            '/bg/18.png',
+            '/bg/19.png',
+            '/bg/20.jpg',
         ],
 
         //手机端首页背景图片
