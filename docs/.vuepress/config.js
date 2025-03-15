@@ -259,7 +259,7 @@ module.exports = {
     theme: 'aurora',
 
     //站点title
-    title: "竹紫古本屋",
+    title: "竹紫Tausagi",
 
     //设置站点语言
     lang: 'zh-CN',
@@ -343,13 +343,13 @@ module.exports = {
         socials: socials,
 
         //logo旁文字 默认值为Aurora
-        logoTitle: "美少女的厕所",
+        logoTitle: "雨傘物語",
 
         //貌似没用的配置项┭┮﹏┭┮
         headTitle: "this is headTitle",
 
         //站点描述
-        description: "这里是竹紫古本屋",
+        description: "这里是竹紫的古本屋",
 
         //站点关键词，在后续版本中，还需优化 请使用英文状态下的逗号','隔开
         keyword: "vuepress主题,vuepress theme,生活琐事,二次元博客,简约博客,博客主题,静态主题",

@@ -2,7 +2,7 @@ module.exports = {
     //这里是将config.js中的个人站点信息部分单独提取出来，方便配置
     siteInformation: {
         //站点标题
-        title: "海盗的古本屋",
+        title: "TausakiZZZ",
 
         //自己站点链接
         url: "",

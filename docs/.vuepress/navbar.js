@@ -19,11 +19,11 @@ module.exports = {
                     children: [
                         {
                             text:'日常',
-                            link:'https://reisenzone.github.io/tag/?tag=日常',
+                            link:'https://Tausaki.github.io/tag/?tag=日常',
                         },
                         {
                             text: '有感而发',
-                            link: 'https://reisenzone.github.io/tag/?tag=有感而发',
+                            link: 'https://Tausaki.github.io/tag/?tag=有感而发',
                         },
                     ]
                 },
@@ -38,7 +38,7 @@ module.exports = {
                     children: [
                         {
                             text:"遗海拾枝",
-                            link:"https://reisenzone.github.io/tag/?tag=遗海拾枝",
+                            link:"https://Tausaki.github.io/tag/?tag=遗海拾枝",
                         },
                     ]
                 },
@@ -47,11 +47,11 @@ module.exports = {
                     children: [
                         {
                              text:'分镜',
-                             link:"https://reisenzone.github.io/tag/?tag=分镜",
+                             link:"https://Tausaki.github.io/tag/?tag=分镜",
                         },
                         {
                              text: '',
-                             link: 'https://reisenzone.github.io/tag/?tag=',
+                             link: 'https://Tausaki.github.io/tag/?tag=',
                         },
                     ]
                 },
@@ -60,7 +60,7 @@ module.exports = {
                     children: [
                         {
                              text:'星座线',
-                             link:"https://reisenzone.github.io/tag/?tag=星座线",
+                             link:"https://Tausaki.github.io/tag/?tag=星座线",
                         },
                     ]
                 }
@@ -75,7 +75,7 @@ module.exports = {
                     children: [
                         {
                              text:"MAD",
-                             link:"https://reisenzone.github.io/tag/?tag=mad",
+                             link:"https://Tausaki.github.io/tag/?tag=mad",
                         },
                     ]
                 },
@@ -84,7 +84,7 @@ module.exports = {
                     children: [
                         {
                               text:"私小说",
-                              link:"https://reisenzone.github.io/tag/?tag=私小说",
+                              link:"https://Tausaki.github.io/tag/?tag=私小说",
                         },
                     ]
                 },
@@ -93,7 +93,7 @@ module.exports = {
                     children: [
                         {
                             text:"",
-                            link:"https://reisenzone.github.io/tag/?tag=",
+                            link:"https://Tausaki.github.io/tag/?tag=",
                         },
                     ]
                 },
@@ -107,7 +107,7 @@ module.exports = {
                     children: [
                         {
                             text:"游记",
-                            link:"https://reisenzone.github.io/tag/?tag=游记",
+                            link:"https://Tausaki.github.io/tag/?tag=游记",
                         },
                         {
                             text:"准备游玩",
@@ -132,7 +132,7 @@ module.exports = {
                     children: [
                         {
                             text:"动漫",
-                            link:"https://reisenzone.github.io/tag/?tag=Anime",
+                            link:"https://Tausaki.github.io/tag/?tag=Anime",
                         },
                         {
                             text:"我看过的动画",
@@ -149,7 +149,7 @@ module.exports = {
                     children: [
                         {
                             text:"孤独少女",
-                            link:"https://reisenzone.github.io/tag/?tag=孤独少女"
+                            link:"https://Tausaki.github.io/tag/?tag=孤独少女"
                         },
                     ]
                 }
@@ -164,7 +164,7 @@ module.exports = {
                     children: [
                         {
                             text:"2017-2022",
-                            link:"https://reisenzone.github.io/tag/?tag=music"
+                            link:"https://Tausaki.github.io/tag/?tag=music"
                         },
                     ]
                 },
@@ -173,7 +173,7 @@ module.exports = {
                     children: [
                         {
                             text:"2023",
-                            link:"https://reisenzone.github.io/tag/?tag=music"
+                            link:"https://Tausaki.github.io/tag/?tag=music"
                         },
                     ]
                 },
@@ -182,11 +182,11 @@ module.exports = {
                     children: [
                         {
                              text:"书架",
-                             link:'https://reisenzone.github.io/tag/?tag=书架'
+                             link:'https://Tausaki.github.io/tag/?tag=书架'
                         },
                         {
                              text:"PIXIV",
-                             link:'https://reisenzone.github.io/tag/?tag=Pixiv'
+                             link:'https://Tausaki.github.io/tag/?tag=Pixiv'
                         },
                     ]
                 }
@@ -201,11 +201,11 @@ module.exports = {
                     children: [
                         {
                             text:"",
-                            link:"https://reisenzone.github.io/tag/?tag=",
+                            link:"https://Tausaki.github.io/tag/?tag=",
                         },
                         {
                             text: 'DCS',
-                            link: 'https://reisenzone.github.io/tag/?tag= DCS',
+                            link: 'https://Tausaki.github.io/tag/?tag= DCS',
                         },
                     ]
                 },
@@ -214,7 +214,7 @@ module.exports = {
                     children: [
                         {
                             text:"战舰世界",
-                            link:"https://reisenzone.github.io/tag/?tag=网络游戏",
+                            link:"https://Tausaki.github.io/tag/?tag=网络游戏",
                         },
                     ]
                 },
@@ -223,7 +223,7 @@ module.exports = {
                     children: [
                         {
                             text:"星穹铁道",
-                            link:"https://reisenzone.github.io/tag/?tag=手游",
+                            link:"https://Tausaki.github.io/tag/?tag=手游",
                         },
                     ]
                 }
@@ -237,17 +237,17 @@ module.exports = {
                     text: "AGH VIII",
                     children: [
                         {
-                            text:"2017",
-                            link:"https://reisenzone.github.io/tag/?tag= AGH VIII"
+                            text:"用量",
+                            link:"https://Tausaki.github.io/tag/?tag= AGH VIII"
                         },
                     ]
                 },
                 {
-                    text: "赛事经历",
+                    text: "历险记",
                     children: [
                         {
                             text:"比赛",
-                            link:"https://reisenzone.github.io/tag/?tag=比赛",
+                            link:"https://Tausaki.github.io/tag/?tag=比赛",
                         },
                     ]
                 },
